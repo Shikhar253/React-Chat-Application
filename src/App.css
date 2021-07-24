@@ -15,8 +15,8 @@
   }
   
   .ce-active-chat-card {
-    background-color: #cabcdc !important;
-    border: 4px solid #cabcdc !important;
+    background-color: #a4d8ad !important;
+    border: 4px solid #a4d8ad !important;
     border-radius: 0px !important;
   }
   
@@ -30,12 +30,12 @@
   
   .ce-text-input {
     border-radius: 6px !important;
-    border: 1px solid #3b2a50 !important;
+    border: 1px solid #36502a !important;
   }
   
   .ce-primary-button {
     border-radius: 6px !important;
-    background-color: #7554a0 !important;
+    background-color: #72a054 !important;
     position: relative;
     bottom: 1px;
   }
@@ -51,12 +51,12 @@
   
   .ce-autocomplete-input {
     border-radius: 6px !important;
-    border: 1px solid #3b2a50 !important;
+    border: 1px solid #36502a !important;
   }
   
   .ce-autocomplete-options {
     border-radius: 6px !important;
-    border: 1px solid #3b2a50 !important;
+    border: 1px solid #36502a !important;
     background-color: white !important;
   }
   
@@ -84,7 +84,7 @@
   }
   
   .chat-title {
-    color: #7554a0;
+    color: #72a054;
     font-weight: 800;
     font-size: 24px;
   }
@@ -164,7 +164,7 @@
   .message-form {
     overflow: hidden;
     border-radius: 6px;
-    border: 1px solid #3b2a50;
+    border: 1px solid #2d502a;
     background-color: white;
   }
   
